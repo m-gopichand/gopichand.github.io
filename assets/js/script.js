@@ -188,10 +188,10 @@ function applyDynamicColorsToContainer(containerId) {
         // Define specific phrases or word groups to be colored
         const wordGroups = [
             "I'm",
-            "Priyanshu",
-            "Data Analyst",
+            "Gopichand",
+            "Machine Learning",
             "&",
-            "Machine Learning Engineer"
+            "Data Engineer"
         ];
 
         element.innerHTML = ''; // Clear current content
