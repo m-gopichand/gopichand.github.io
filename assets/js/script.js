@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Priyanshu Kumar Saw";
+            document.title = "Portfolio | Gopichand";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
